@@ -23,15 +23,13 @@ HomeLab 交流 QQ 群： 826702309
 
 # 傻瓜生产指南
 
-下载Releases中的zip文件
+下载Releases中最新的zip文件
 
 提交至嘉立创助手下单，设置PCB为4层板，厚度为1.6，板子宽度（cm）：2.77，板子长度（cm）：9.63
 
 需要阻抗，JLC7628结构
 
 其余全部默认
-
-注：若客服询问按哪个文件下单，则回复：FLOM_Converter.Cam和文件夹Project Outputs for FLOM_Converter为输出的bgerber文件
 
 # Thanks To
 
