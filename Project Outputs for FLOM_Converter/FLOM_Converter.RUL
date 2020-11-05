@@ -1,4 +1,4 @@
-DRC Rules Export File for PCB: C:\Users\ihoob\Documents\Tencent Files\1225135511\FileRecv\FLOM_Converter_1U\FLOM_Converter.PcbDoc
+DRC Rules Export File for PCB: C:\Users\ihoob\Documents\Tencent Files\1225135511\FileRecv\FLOM_Converter_1U 2²ã\FLOM_Converter.PcbDoc
 RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
 RuleKind=Width|RuleName=Width|Scope=Board|Minimum=7.00
 RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=6.00

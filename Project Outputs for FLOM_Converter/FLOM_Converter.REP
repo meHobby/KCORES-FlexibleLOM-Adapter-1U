@@ -2,6 +2,42 @@
 FileName = FLOM_Converter.GBR
 AutoAperture = True
 *************************************************************
+Generating : Bottom Layer
+      File : FLOM_Converter.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+    D14
+    D23
+    D25
+    D26
+    D27
+    D28
+*************************************************************
+
+*************************************************************
+Generating : Layer 2
+      File : FLOM_Converter.GP2
+
+    Adding Layer      : Layer 2
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D29
+    D30
+    D31
+    D32
+*************************************************************
+
+*************************************************************
 Generating : Mechanical 13
       File : FLOM_Converter.GM13
 
@@ -10,6 +46,22 @@ Generating : Mechanical 13
 
 Used DCodes :
     D33
+*************************************************************
+
+*************************************************************
+Generating : Layer 1
+      File : FLOM_Converter.GP1
+
+    Adding Layer      : Layer 1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D29
+    D30
+    D31
+    D32
 *************************************************************
 
 *************************************************************
@@ -56,17 +108,6 @@ Generating : Keep-Out Layer
 
 Used DCodes :
     D16
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 1
-      File : FLOM_Converter.GM1
-
-    Adding Layer      : Mechanical 1
-
-
-Used DCodes :
-    D33
 *************************************************************
 
 *************************************************************
@@ -130,6 +171,19 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Mechanical 15
+      File : FLOM_Converter.GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D14
+    D24
+    D33
+*************************************************************
+
+*************************************************************
 Generating : Top Paste
       File : FLOM_Converter.GTP
 
@@ -143,6 +197,17 @@ Generating : Top Paste
 Used DCodes :
     D12
     D13
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : FLOM_Converter.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D33
 *************************************************************
 
 *************************************************************
@@ -189,70 +254,5 @@ Used DCodes :
     D25
     D26
     D27
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : FLOM_Converter.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D12
-    D13
-    D14
-    D23
-    D25
-    D26
-    D27
-    D28
-*************************************************************
-
-*************************************************************
-Generating : Layer 2
-      File : FLOM_Converter.GP2
-
-    Adding Layer      : Layer 2
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D29
-    D30
-    D31
-    D32
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 15
-      File : FLOM_Converter.GM15
-
-    Adding Layer      : Mechanical 15
-
-
-Used DCodes :
-    D14
-    D24
-    D33
-*************************************************************
-
-*************************************************************
-Generating : Layer 1
-      File : FLOM_Converter.GP1
-
-    Adding Layer      : Layer 1
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D29
-    D30
-    D31
-    D32
 *************************************************************
 
